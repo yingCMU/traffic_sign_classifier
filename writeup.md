@@ -22,7 +22,8 @@ The goals / steps of this project are the following:
 [image3]: ./outputs/gray_normalized.png "Normalized Gray"
 [image4]: ./outputs/test_5_images.png "Test 5 Images"
 [image5]: ./outputs/visualization_layers.png "Visualization first conv layer"
-
+[image6]: ./outputs/test_data_dist.png "Test Distribution"
+[image7]: ./outputs/validation_data_dist.png "Validation Distribution"
 
 ---
 ### Writeup / README
@@ -46,9 +47,11 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Here is an exploratory visualization of the data set. It is a bar chart showing how the data is distributed for train, test and validation distribution
 
 ![alt text][image1]
+![alt text][image6]
+![alt text][image7]
 
 ### Design and Test a Model Architecture
 
